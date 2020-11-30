@@ -1,3 +1,4 @@
+![headshot](2-lepes-matt.jpg)
 # HelloWorld
 Test repo
 
